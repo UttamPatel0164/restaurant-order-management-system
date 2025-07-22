@@ -1,4 +1,4 @@
-# Restorent order system
+# restaurant order management system
 
 FoodFrenzy is a comprehensive system designed for managing customers, inventory, and orders. It offers secure authentication, role-based access control, and database integration using MySQL. Built with Spring Boot and Thymeleaf, the application provides a seamless experience for admin and staff members.
 
@@ -16,7 +16,7 @@ FoodFrenzy is a comprehensive system designed for managing customers, inventory,
 
 ## Technology Stack
 
-- **Backend**: Spring Boot, Java 8, Spring MVC, Spring Data JPA (Hibernate)
+- **Backend**: Spring Boot, Java 18, Spring MVC, Spring Data JPA (Hibernate)
 - **Frontend**: Thymeleaf, HTML, CSS, JavaScript
 - **Database**: MySQL
 - **IDE**: Eclipse, Spring Tool Suite (STS)[ebsite Screenshot]()
