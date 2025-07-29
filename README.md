@@ -43,4 +43,3 @@ FoodFrenzy is a comprehensive system designed for managing customers, inventory,
 ![Screenshot 2024-10-03 093424](https://github.com/user-attachments/assets/b0a9a1e2-6018-475a-95fc-d64980677ee7)
 ![Screenshot 2024-10-03 093437](https://github.com/user-attachments/assets/b860f905-2c35-4af3-9df8-38cda70b4406)]()
 
-## [Project Structure]()
